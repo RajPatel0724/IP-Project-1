@@ -1,0 +1,100 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+#ID1{
+	color: blue;
+	font-family: 'Potta One', cursive;
+}
+body{
+	width: 100%;
+	height:100vh;
+	background-image: url('Photo 1.jpg');
+	 background-size: 100% 100%;
+	 background-attachment: cover; 
+}
+#fontcss{
+	color: red;
+	font-family: 'Potta One', cursive;
+}
+#ID2{
+	color: green;
+	font-family: 'Potta One', cursive;
+}
+.Click{
+	color: pink;
+font-family: 'Potta One', cursive;
+}
+.glow{
+	color: red;
+	font-family: 'Potta One', cursive;
+}
+.About{
+	color: red;
+font-family: 'Yusei Magic', sans-serif;
+font-size: 20px
+}
+.Contact{
+	color: red;
+	font-family: 'Yusei Magic', sans-serif;
+
+}
+body{
+	width: 100%;
+	height:100vh;
+	background-image: url('Photo 1.jpg');
+	 background-size: 100% 100%;
+	 background-attachment: fixed; 
+}
+.Head{
+	font-family: 'Potta One', cursive;
+	color: red;
+	width: 100%;
+	height:100vh;
+	background-color: green;
+
+	 background-attachment: cover; 
+}
+body{
+	font-family: 'Potta One', cursive;	
+	width: 100%;
+	height:100vh;
+	background-image: url(Photo 1.jpg);
+	 background-size: 100% 100%;
+	 background-attachment: cover; 
+}
+.Available{
+	color: red;
+}
+
+.Body1{
+	font-family: 'Potta One', cursive;
+	color: red;
+
+}
+.About{
+	font-family: 'Potta One', cursive;
+	color: red;
+	font-size: 80px;
+
+}
+.Apple{
+	font-family: 'Potta One', cursive;
+	color: red;
+	font-size: 50px;
+}
+.Oppo{
+	font-family: 'Potta One', cursive;
+	color: red;
+	font-size: 50px;
+}
+.Samsung{
+	font-family: 'Potta One', cursive;
+	color: red;
+	font-size: 50px;
+}
+.Vivo{
+	font-family: 'Potta One', cursive;
+	color: red;
+	font-size: 50px;
+}
